@@ -1,0 +1,47 @@
+body {
+  padding: 50px;
+  font: 14px "Montserrat", Helvetica, Arial, sans-serif;
+  background-color: #1A1A1A;
+}
+
+a {
+  color: #B47215;
+}
+
+.navbar {
+  padding: 10px 30px 10px 10px;
+  background-color: #333333;
+  border-style: solid;
+  border-width: thin;
+  border-color: #888888;
+  box-shadow: 0 3px 3px #333333;
+}
+
+p1 {
+  color: #FFFFFF;
+}
+
+.rhbutton {
+  background-color: #B47215;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Montserrat;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: all 0.1s ease-in-out;
+}
+
+.rhbutton:hover {
+  text-decoration: underline;
+  box-shadow: 0 3px 0px #FFFFFF;
+}
+
+.rhbutton:active {
+  text-decoration: underline;
+  box-shadow: 0 3px 0px #FFFFFF;
+}
